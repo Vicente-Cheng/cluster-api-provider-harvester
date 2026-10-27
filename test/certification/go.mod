@@ -1,6 +1,6 @@
 module github.com/harvester/cluster-api-provider-harvester/test/certification
 
-go 1.25.10
+go 1.26
 
 require (
 	github.com/onsi/ginkgo/v2 v2.28.3
